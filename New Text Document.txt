@@ -1,0 +1,7 @@
+ <div class="section-title">
+                                                        <p class="sub-title">Student Result Management System</p>
+                                                    </div>
+  </div>
+                                            <!-- /.panel -->
+                                            <p class="text-muted text-center"><small>Copyright © 2020 SRMS  </a></small> </p>
+                                        </div>
